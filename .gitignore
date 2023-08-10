@@ -1,0 +1,12 @@
+# Ignore compiled files
+*.o
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore a directory
+node_modules/
+
+# Ignore specific files
+config.json
