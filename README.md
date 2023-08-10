@@ -44,5 +44,5 @@ The PWA Text Editor is equipped with features like data persistence using Indexe
 Licensed under the [MIT](https://github.com/ghiasnaser/Text-Editor--PWA/blob/e7c54d8345eb7c90b9c9b4580b1a2587a26a2af7/LICENSE) license.
 
 ## Links
-The Heroku link: https://watch.screencastify.com/v/iJ1cEOhENa859vJW8nIZ
+The Heroku link: https://secure-scrubland-30111-de98f9e33082.herokuapp.com/
 The repository link: https://github.com/ghiasnaser/Text-Editor--PWA.git
